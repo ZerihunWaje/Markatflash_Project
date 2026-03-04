@@ -9,7 +9,14 @@
  3. Tableau
 
 ## Database Design
-
+	- First step - Create a ERD diagram for the each Entities.
+ - Second step- Convert the ERD into Functional Diagram using Lucidchart
+      - Add Primary and Foreign Keys
+      - Relationships
+      - Data typies and Cosntraints
+ - Third Step- Start Writing SQL to create the database in Bekeeper.
+       	`CREATE TABLE tablename( Column names)
+         VALUES(    )`
 
 ## SQL Implementation
 
