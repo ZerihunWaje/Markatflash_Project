@@ -21,7 +21,9 @@
 ## SQL Implementation
 
 ## Data Analytics & Visualization
-
+Here you can find the dashbaord for the summary insight
+	![Marketflash Dashboard](<img width="545" height="394" alt="Screenshot 2025-12-17 095416" src="https://github.com/user-attachments/assets/1793da39-1081-42d2-b1ca-2bae68f88d36" />
+)
 ## Key Insights
 
 
