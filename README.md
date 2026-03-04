@@ -22,7 +22,7 @@
 
 ## Data Analytics & Visualization
 
-![Marketflash Dashboard](<img width="545" height="394" alt="Screenshot 2025-12-17 095416" src="https://github.com/user-attachments/assets/1793da39-1081-42d2-b1ca-2bae68f88d36" />
+![Marketflash Dashboard](https://github.com/ZerihunWaje/Markatflash_Project/blob/main/Data%20Analytics%20with%20Tableau/Screenshot%202025-12-17%20095416.png)
 )
 ## Key Insights
 
