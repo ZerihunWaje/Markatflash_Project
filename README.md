@@ -15,7 +15,7 @@
       - Relationships
       - Data typies and Cosntraints
  - Third Step- Start Writing SQL to create the database in Bekeeper.
-       ![ERD]()
+       ![ERD](https://github.com/ZerihunWaje/Markatflash_Project/blob/main/Database%20Design/Screenshot%202026-02-26%20123358.png)
 
 ## SQL Implementation
 
