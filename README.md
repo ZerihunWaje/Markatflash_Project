@@ -3,7 +3,10 @@
 
 ## Project overview
 
- *Tech Used*
+## Tech Used
+ 1. Excel(Spreadsheet)
+ 2. SQL
+ 3. Tableau
 
 ## Database Design
 
