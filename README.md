@@ -3,7 +3,7 @@
 
 ## Project overview
 
-## Tech Used
+## **Tech Used**
 
 ## Database Design
 
