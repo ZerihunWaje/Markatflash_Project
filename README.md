@@ -15,8 +15,7 @@
       - Relationships
       - Data typies and Cosntraints
  - Third Step- Start Writing SQL to create the database in Bekeeper.
-       	`CREATE TABLE tablename( Column names)
-         VALUES(    )`
+       ![ERD]()
 
 ## SQL Implementation
 
